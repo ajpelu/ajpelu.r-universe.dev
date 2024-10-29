@@ -1,0 +1,20 @@
+[
+    {
+        "package": "diveRpine",
+        "url": "https://github.com/ajpelu/diveRpine"
+    },
+    {
+        "package": "famexploreR",
+        "url": "https://github.com/ajpelu/famexploreR"
+    },
+    {
+        "package": "datefixR",
+        "url": "https://github.com/ropensci/datefixR"
+    },
+    {
+        "package": "likelihoodTools",
+        "url": "https://github.com/ajpelu/likelihoodTools"
+    }
+]
+
+
